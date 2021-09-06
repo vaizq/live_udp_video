@@ -1,0 +1,3 @@
+#define FRAME_HEIGHT 720
+#define FRAME_WIDTH 1280
+#define ENCODE_QUALITY 80
